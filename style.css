@@ -1,0 +1,31 @@
+/* Generell stil for hele siden */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Stil for bilde */
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Stil for tekst */
+p {
+    margin: 10px 0;
+}
+
+/* Stil for tekst1 */
+#text1 {
+    color: #333; /* Farge for tekst */
+    font-size: 18px;
+}
+
+/* Stil for tekst2 */
+#text2 {
+    color: #666; /* Farge for tekst */
+    font-size: 16px;
+}
