@@ -1,6 +1,7 @@
-# Prosjektnavn
+# Prøve Eksamen Oppdrag 3
 
 Dette prosjektet er en enkel demonstrasjon av hvordan du kan bruke JavaScript til å hente data fra et API og vise den i et HTML-dokument.
+Nettsiden henter bildet og hvem som har tatt bildet fra API-en og sender bildet til nettsiden og sender forfattere av bildet i consollogen.
 
 ## Skjermbilde
 
@@ -12,14 +13,6 @@ Dette prosjektet er en enkel demonstrasjon av hvordan du kan bruke JavaScript ti
 2. Åpne `index.html` i en nettleser.
 3. HTML-dokumentet vil hente data fra et API og vise den.
 
-## Dette er fargene jeg brukte
-
-| Farge             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Eksempelfarge | ![#772F1A](https://via.placeholder.com/10/772F1A?text=+) #772F1A |
-| Eksempelfarge | ![#F58549](https://via.placeholder.com/10/F58549?text=+) #F58549 |
-| Eksempelfarge | ![#EEC170](https://via.placeholder.com/10/EEC170?text=+) #EEC170 |
-| Eksempelfarge | ![#F2A65A](https://via.placeholder.com/10/F2A65A?text=+) #F2A65A |
 
 ## Viktige ting å tenke på for universell utforming
 
@@ -32,5 +25,13 @@ Dette prosjektet er en enkel demonstrasjon av hvordan du kan bruke JavaScript ti
 ## Implementasjon
 
 - `index.html`: Inneholder HTML-strukturen for spillet og kobler til CSS og JavaScript-filer.
-- `styles.css`: Definerer utseendet på spillet.
-- `index.js`: Inneholder JavaScript-koden for spillets logikk, inkludert behandling av spillervalg, beregning av resultatet og lagring av resultater i Firebase-databasen.
+- `style.css`: Definerer utseendet på nettsiden.
+- `script.js`: Inneholder JavaScript-koden for nettsidens logikk. 
+
+## Ressurser
+- [Nav bar](https://dev.to/jungjungie/create-a-navbar-with-css-flexbox-2leh)
+- [Api bildet hjelp](https://medium.com/geekculture/fetch-image-data-from-api-in-javascript-9a7f5f3048ab)
+- [API](https://picsum.photos/v2/list)
+- [Sikre at fargene fungerer sammen](https://color.adobe.com/create/color-contrast-analyzer)
+- [Generell code hjelp](https://www.w3schools.com/)
+- [Feil søkings hjelp](https://chat.openai.com/)
