@@ -25,7 +25,7 @@ function fetchData() {
         });
  }
  
- document.getElementById('center').addEventListener('click', fetchData);
+ document.getElementById('btn').addEventListener('click', fetchData);
  
 
 // Prøvde å få til med at bildet ikke blir byttet ut,
