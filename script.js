@@ -28,5 +28,6 @@ function fetchData() {
  document.getElementById('center').addEventListener('click', fetchData);
  
 
-//  Prøvde å få til med at bildet ikke blir byttet ut,
+// Prøvde å få til med at bildet ikke blir byttet ut,
 // men skjønte ikke noe av det. Men la det inn i Codepen med forslag fra ChatGTP "https://codepen.io/SoupLittle/pen/MWdJWWQ"
+// finnes jo sikkert en lettere metode, men klarte ikke å finne det akkurat nå🙃
